@@ -1,4 +1,4 @@
-# Bai tap 2
+# Bai tap 2 - Kmeans++
 # Tran Quoc Long
 # MSSV: 14520490
 # updated: 28/09/2017
